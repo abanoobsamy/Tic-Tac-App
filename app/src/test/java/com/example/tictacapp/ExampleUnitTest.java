@@ -1,4 +1,4 @@
-package com.example.tictacapp;
+package com.bob.tictacapp;
 
 import org.junit.Test;
 
