@@ -7,7 +7,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.bob.tictacapp"
+        applicationId "com.bob.tic_tac_app"
         minSdkVersion 21
         targetSdkVersion 33
         versionCode 1
